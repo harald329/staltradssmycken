@@ -17,7 +17,6 @@ Mvh Harald Toft
 <img src="{{ site.baseurl }}/assets/ring.jpg"/>
 
 ## Section with Background Color
-
-This is a section with a custom background color.
+Jätte fin ring, köp snabbt
 
 </div>
