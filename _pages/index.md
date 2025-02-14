@@ -14,7 +14,7 @@ Mvh Harald Toft
 [testing](test.html)
 
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-<img src="{{ site.baseurl }}/assets/ringen.jpg"/>
+<img src="{{ site.baseurl }}/assets/ring.jpg"/>
 
 ## Section with Background Color
 
