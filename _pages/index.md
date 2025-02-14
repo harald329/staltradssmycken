@@ -16,6 +16,7 @@ Mvh Harald Toft
 <div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
 
 ## Section with Background Color
+![Local Image](./assets/ringen.jpg)
 
 This is a section with a custom background color.
 
