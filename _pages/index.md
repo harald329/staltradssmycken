@@ -12,3 +12,11 @@ hej hej Sigrid!
 Mvh Harald Toft
 
 [testing](test.html)
+
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+
+## Section with Background Color
+
+This is a section with a custom background color.
+
+</div>
