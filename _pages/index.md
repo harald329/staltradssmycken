@@ -17,7 +17,6 @@ Mvh Harald Toft
 <img src="{{ site.baseurl }}/assets/ringen.jpg"/>
 
 ## Section with Background Color
-![Local Image](./assets/ring.jpg)
 
 This is a section with a custom background color.
 
